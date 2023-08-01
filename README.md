@@ -36,4 +36,4 @@ Settings can be found at `Setting` > `GPU Temp ROCm`
 
 ## Notes
 - Temperature unit Celsius, Time unit seconds
-- To be honest I don't recommend anyone using this extension, if your GPU is having temperature issues and don't have the means to improve the cooling, then recommend using software like MSI afterburner to undervolt or further power limit or thermal limit the GPU.
+- Your best bet is to use something like [CoreCtrl](https://gitlab.com/corectrl/corectrl) to control your fan curve and actually  protect your GPU, but this utility can help you keep the noise down if your fans need to spin fairly quickly to keep the temps you're comfortable with.
